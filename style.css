@@ -2,43 +2,36 @@ header{
   background-color: plum;
   margin: 20px ;
   padding-left: 70px;
-  
-
-
 }
+
 Li a {
   text-decoration: none;
   color: #000;
-  
-
-  
-
 }
+
 div {
   font-size: 40px
 }
+
 p{
   color:plum;
-
 }
+
 footer{
   text-align:end;
   background-color: plum;
-  
 }
 
-  
 h1{
   border: 2px solid palevioletred
 }
+
 section{
   color:plum;
   text-align: center;
-
-
 }
+
 *{
   margin: 0;
   padding: 0;
-  
 }
